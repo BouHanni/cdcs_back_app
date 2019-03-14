@@ -1,0 +1,173 @@
+[21/Feb/2019 21:46:59] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:47:01] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:47:01] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:47:05] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:47:06] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:47:06] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:49:17] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:49:18] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:49:18] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:50:59] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:51:00] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:51:00] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:51:03] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:51:04] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:51:04] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:54:56] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:54:57] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:54:57] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:55:25] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:55:26] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:55:26] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:55:29] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:55:30] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:55:30] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:57:03] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:57:04] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:57:04] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:57:08] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:57:09] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 21:57:09] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 21:57:59] ERROR [django.server:124] "GET /static/rest_framework_swagger/images/favicon-32x32.png HTTP/1.1" 500 59
+[21/Feb/2019 22:00:14] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[21/Feb/2019 22:00:15] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[21/Feb/2019 22:00:15] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 15:07:41] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 15:07:43] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[25/Feb/2019 15:07:43] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 15:07:46] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 15:07:47] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[25/Feb/2019 15:07:47] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 16:57:56] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 16:57:58] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[25/Feb/2019 16:57:58] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 16:58:01] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 16:58:02] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[25/Feb/2019 16:58:02] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 17:38:31] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 17:38:32] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[25/Feb/2019 17:38:32] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 17:54:00] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 17:54:02] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[25/Feb/2019 17:54:02] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[25/Feb/2019 18:00:29] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 83
+[26/Feb/2019 11:22:43] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:22:44] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 11:22:44] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:22:48] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:22:49] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 11:22:49] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:56:58] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:57:00] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 11:57:00] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:57:04] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:57:05] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 11:57:05] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:57:27] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:57:29] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 11:57:29] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:57:31] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 11:57:32] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 11:57:32] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 13:07:21] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 13:07:24] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 13:07:24] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 13:07:27] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 13:07:28] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 13:07:28] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 19:40:52] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 19:40:54] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 19:40:54] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 19:40:57] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 19:40:58] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[26/Feb/2019 19:40:58] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[26/Feb/2019 19:51:04] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[26/Feb/2019 20:56:20] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[26/Feb/2019 20:56:20] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[26/Feb/2019 20:56:20] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[26/Feb/2019 20:56:20] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[26/Feb/2019 20:56:20] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[26/Feb/2019 20:56:20] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[26/Feb/2019 20:57:25] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[28/Feb/2019 09:24:53] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 09:24:54] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[28/Feb/2019 09:24:54] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 09:24:59] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 09:25:00] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[28/Feb/2019 09:25:00] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 10:44:33] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 10:44:35] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[28/Feb/2019 10:44:35] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 10:44:38] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 10:44:39] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[28/Feb/2019 10:44:39] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[28/Feb/2019 11:30:31] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[28/Feb/2019 11:30:32] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[28/Feb/2019 11:30:46] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[02/Mar/2019 10:34:12] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[02/Mar/2019 10:34:13] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[02/Mar/2019 10:34:13] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[02/Mar/2019 10:34:17] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[02/Mar/2019 10:34:18] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[02/Mar/2019 10:34:18] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[02/Mar/2019 11:21:10] ERROR [django.server:124] "OPTIONS /mdcs/data/+id HTTP/1.1" 500 59
+[02/Mar/2019 11:21:24] WARNING [django.request:152] Not Found: /mdcs/data/+id
+[02/Mar/2019 11:21:25] WARNING [django.server:124] "GET /mdcs/data/+id HTTP/1.1" 404 12071
+[02/Mar/2019 11:21:25] ERROR [django.server:124] "GET /mdcs/data/+id HTTP/1.1" 500 59
+[02/Mar/2019 11:21:46] WARNING [django.request:152] Not Found: /mdcs/data/+id
+[02/Mar/2019 11:21:46] WARNING [django.server:124] "GET /mdcs/data/+id HTTP/1.1" 404 12071
+[02/Mar/2019 11:21:46] ERROR [django.server:124] "GET /mdcs/data/+id HTTP/1.1" 500 59
+[02/Mar/2019 11:22:41] ERROR [django.server:124] "GET /rest/workspace/read_access HTTP/1.1" 500 59
+[02/Mar/2019 11:28:22] ERROR [django.server:124] "GET /rest/workspace/read_access HTTP/1.1" 500 59
+[02/Mar/2019 11:29:30] ERROR [django.server:124] "GET /rest/workspace/read_access HTTP/1.1" 500 59
+[05/Mar/2019 21:08:22] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[05/Mar/2019 21:08:24] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[05/Mar/2019 21:08:24] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[05/Mar/2019 21:08:31] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[05/Mar/2019 21:08:32] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[05/Mar/2019 21:08:32] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[05/Mar/2019 21:14:36] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[11/Mar/2019 11:05:27] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 11:05:29] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[11/Mar/2019 11:05:29] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 11:05:33] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 11:05:34] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[11/Mar/2019 11:05:34] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 11:09:11] WARNING [django.server:124] "GET /rest/data/query/ HTTP/1.1" 400 47
+[11/Mar/2019 11:13:44] WARNING [django.server:124] "POST /rest/template/user/ HTTP/1.1" 400 94
+[11/Mar/2019 11:20:25] WARNING [django.server:124] "GET /rest/data/get-full HTTP/1.1" 400 47
+[11/Mar/2019 19:54:52] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 19:54:54] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[11/Mar/2019 19:54:54] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 19:54:58] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 19:54:59] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[11/Mar/2019 19:54:59] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 20:03:45] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[11/Mar/2019 20:10:59] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[11/Mar/2019 20:22:26] WARNING [django.request:152] Not Found: /mdcs/data/
+[11/Mar/2019 20:22:27] WARNING [django.server:124] "GET /mdcs/data/ HTTP/1.1" 404 12062
+[11/Mar/2019 20:22:27] ERROR [django.server:124] "GET /mdcs/data/ HTTP/1.1" 500 59
+[11/Mar/2019 20:22:59] WARNING [django.request:152] Not Found: /mdcs/data/
+[11/Mar/2019 20:22:59] WARNING [django.server:124] "GET /mdcs/data/ HTTP/1.1" 404 12062
+[11/Mar/2019 20:24:10] ERROR [django.server:124] "GET /mdcs/data/5c0043265b04bf24c078ce92/ HTTP/1.1" 500 59
+[11/Mar/2019 20:39:10] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 20:39:11] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[11/Mar/2019 20:39:11] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 20:39:14] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 20:39:15] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[11/Mar/2019 20:39:15] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[11/Mar/2019 20:44:42] ERROR [django.server:124] "GET /mdcs/data/undefined/ HTTP/1.1" 500 107
+[11/Mar/2019 20:55:56] WARNING [django.server:124] "GET /mdcs/data/5c094b515b04bf10041af5bd/ HTTP/1.1" 401 58
+[11/Mar/2019 21:09:24] WARNING [django.server:124] "POST /api-token-auth/ HTTP/1.1" 400 100
+[12/Mar/2019 09:17:00] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[12/Mar/2019 09:17:01] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[12/Mar/2019 09:17:01] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[12/Mar/2019 09:17:04] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[12/Mar/2019 09:17:05] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[12/Mar/2019 09:17:05] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[14/Mar/2019 13:14:15] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[14/Mar/2019 13:14:19] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[14/Mar/2019 13:14:19] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
+[14/Mar/2019 13:14:25] INFO [core_oaipmh_harvester_app.tasks:120] START revoking OAI-PMH scheduled tasks.
+[14/Mar/2019 13:14:26] INFO [core_oaipmh_harvester_app.tasks:128] Impossible to retrieve scheduled tasks. Is Celery started?
+[14/Mar/2019 13:14:26] INFO [core_oaipmh_harvester_app.tasks:129] FINISH revoking OAI-PMH scheduled tasks.
